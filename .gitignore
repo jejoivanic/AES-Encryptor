@@ -21,6 +21,6 @@
 hs_err_pid*
 
 # Eclipse Files #
-.classpath
-.project
-./.settings
+Encryptor/.classpath
+Encryptor/.project
+Encryptor/.settings
